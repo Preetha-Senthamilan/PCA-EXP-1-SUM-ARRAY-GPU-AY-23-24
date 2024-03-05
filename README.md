@@ -178,11 +178,12 @@ int main(int argc, char **argv)
 
 ![image](https://github.com/Preetha-Senthamilan/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/119390282/01e1167f-f90d-40c8-a10f-f0d545c86c0c)
 
-### BLOCK SIZE:1203
+### BLOCK SIZE: 1203
 
 ![image](https://github.com/Preetha-Senthamilan/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/119390282/53f9cc69-700a-47dd-8784-3b8797bdedf8)
 
-### BLOCK SIZE:256
+
+### BLOCK SIZE: 256
 
 ![image](https://github.com/Preetha-Senthamilan/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/119390282/67930519-ca8a-433a-a9ef-5e356794c0cf)
 
