@@ -30,8 +30,6 @@ Google Colab with NVCC Compiler
 
 ## PROGRAM:
 ```
-Developed by:PREETHA.S
-Register Number:212222230110
 #include <cuda_runtime.h>
 #include <stdio.h>
 
